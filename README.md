@@ -1,6 +1,6 @@
 # Movie-Analytics-Big-Data
 
-● IMDB Dataset                      
+##IMDB Dataset                      
 The movies dataset includes 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc.
 Attributes
 1. imdbId: title ID on IMDb(integer)
@@ -29,3 +29,4 @@ movie.csv that contains movie information: movieId : title : genres
 The main aim of this project is to demonstrate the movie analytics using spark technology. In the MLR model, we are predicting the average votes based on other attributes of IMDb dataset (director, writer, genre, duration, year).
 
 Collaborative filtering is commonly used for recommender systems. These techniques aim to fill in the missing entries of a user-item association matrix. In collaborative filtering, the users and movies are described by a small set of latent factors. Here we are using ALS model to find the latent factors and to suggest some movies to user 20 based on our model.
+
