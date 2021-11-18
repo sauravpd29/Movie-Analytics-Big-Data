@@ -1,7 +1,7 @@
 # Movie-Analytics-Big-Data
 
-IMDB DATASET                       
-● The movies dataset includes 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc.
+● IMDB Dataset                      
+The movies dataset includes 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc.
 Attributes
 1. imdbId: title ID on IMDb(integer)
 2. Title:title name(string)
@@ -21,7 +21,8 @@ Attributes
 16. Reviews_from_users:no of review from user(string)
 17. Reviews_from_users:no of review from critics(string)
 
-● Movielens Dataset The datasets describe ratings and free-text tagging activities from MovieLens
+● Movielens Dataset 
+The datasets describe ratings and free-text tagging activities from MovieLens
 rating.csv that contains ratings of movies by users: userId : movieId : rating : timestamp
 movie.csv that contains movie information: movieId : title : genres
 
