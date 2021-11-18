@@ -22,9 +22,8 @@ Attributes
 17. Reviews_from_users:no of review from critics(string)
 
 #### Movielens Dataset 
-The datasets describe ratings and free-text tagging activities from MovieLens
-
-rating.csv that contains ratings of movies by users: userId : movieId : rating : timestamp\n
+The datasets describe ratings and free-text tagging activities from MovieLens<br />
+rating.csv that contains ratings of movies by users: userId : movieId : rating : timestamp<br />
 movie.csv that contains movie information: movieId : title : genres
 
 #### The main aim of this project is to demonstrate the movie analytics using spark technology. In the MLR model, we are predicting the average votes based on other attributes of IMDb dataset (director, writer, genre, duration, year).
