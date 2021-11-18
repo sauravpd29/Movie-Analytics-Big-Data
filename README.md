@@ -1,6 +1,6 @@
 # Movie-Analytics-Big-Data
 
-##IMDB Dataset##                      
+## IMDB Dataset                     
 The movies dataset includes 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc.
 Attributes
 1. imdbId: title ID on IMDb(integer)
